@@ -1,0 +1,1 @@
+This is made to be as simple as possible, easy to read and with limited options.
